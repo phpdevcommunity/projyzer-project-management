@@ -89,7 +89,7 @@ docker compose --env-file .env.local up -d
 ```
 
 ## License
-ProJyser is an open-source software under the GNU General Public License v3.0.
+ProJyser is an open-source software under the MIT LICENSE
 
 ## Français
 
@@ -168,4 +168,5 @@ docker compose --env-file .env.local up -d
 docker compose --env-file .env.local up -d
 ```
 ## Licence
-ProJyser est un logiciel open source sous licence GNU General Public License v3.0.
+ProJyser est un logiciel open source sous licence MIT.
+
